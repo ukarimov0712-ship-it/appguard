@@ -1,0 +1,2 @@
+# appguard
+APK qo`riqchi
